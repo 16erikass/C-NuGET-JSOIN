@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# NuGET, JSOIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4271fbacd605590ee97ebff6302b3b7ec81f12b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# NuGET, JSOIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# NuGET, JSOIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

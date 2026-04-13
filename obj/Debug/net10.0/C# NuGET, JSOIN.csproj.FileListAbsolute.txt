@@ -1,0 +1,19 @@
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.AssemblyInfoInputs.cache
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.AssemblyInfo.cs
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.csproj.CoreCompileInputs.cache
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.sourcelink.json
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.csproj.AssemblyReference.cache
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\C# NuGET, JSOIN.exe
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\C# NuGET, JSOIN.deps.json
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\C# NuGET, JSOIN.runtimeconfig.json
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\C# NuGET, JSOIN.dll
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\C# NuGET, JSOIN.pdb
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET.4AF193BF.Up2Date
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.dll
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\refint\C# NuGET, JSOIN.dll
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.pdb
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\C# NuGET, JSOIN.genruntimeconfig.cache
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\obj\Debug\net10.0\ref\C# NuGET, JSOIN.dll
+C:\Users\16eri_lg420ml\source\repos\Projektas\C# NuGET, JSOIN\C# NuGET, JSOIN\bin\Debug\net10.0\users.json

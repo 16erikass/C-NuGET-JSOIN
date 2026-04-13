@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X6cKZh4qeFM=",
+  "dgSpecHash": "6KgpAGlMLnQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\16eri_lg420ml\\source\\repos\\Projektas\\C# NuGET, JSOIN\\C# NuGET, JSOIN\\C# NuGET, JSOIN.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\16eri_lg420ml\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
